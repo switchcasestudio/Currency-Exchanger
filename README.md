@@ -23,7 +23,7 @@ Currency Converter is a simple web application that allows users to convert betw
 1. Clone the repository
 
 ```bash
-$ git clone https://github.com/Object-ions/Currency-Exchanger
+$ git clone https://github.com/switchcasestudio/Currency-Exchanger
 $ cd currency-converter
 ```
 
