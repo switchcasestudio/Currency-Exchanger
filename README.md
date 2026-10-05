@@ -6,7 +6,7 @@
 
 Currency Converter is a simple web application that allows users to convert between different currencies. It fetches the most up-to-date exchange rates from the ExchangeRate-API.
 
-_Live demo: [GH-pages](https://object-ions.github.io/beepboop/)_
+_Live demo: [GH-pages](https://switchcasestudio.github.io/beepboop/)_
 
 ## Technologies Used
 
@@ -25,7 +25,7 @@ _Live demo: [GH-pages](https://object-ions.github.io/beepboop/)_
 1. Clone the repository
 
 ```bash
-$ git clone https://github.com/Object-ions/Currency-Exchanger
+$ git clone https://github.com/switchcasestudio/Currency-Exchanger
 $ cd currency-converter
 ```
 
